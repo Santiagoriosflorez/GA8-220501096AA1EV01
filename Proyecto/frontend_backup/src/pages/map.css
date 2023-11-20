@@ -1,0 +1,16 @@
+.leaflet-Map {
+  width: 85%;
+  height: 90vh;
+  position: absolute;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 0px;
+    right: 20px;
+    z-index: 0;
+}
+/*.Map {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh; /* Ajusta según tus necesidades */
+/* } */
