@@ -1,0 +1,3 @@
+[submodule "Proyecto/frontend"]
+	path = Proyecto/frontend
+	url = https://github.com/Santiagoriosflorez/GA8-220501096AA1EV01.git
